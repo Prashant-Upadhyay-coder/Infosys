@@ -8,7 +8,7 @@ public class RtpcrApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RtpcrApplication.class, args);
-		System.out.println("FULLY_VACINATED");
+		System.out.println("FULLY_VACINATED is change by me in git");
 	}
 
 }
